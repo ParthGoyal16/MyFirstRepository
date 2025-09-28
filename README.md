@@ -1,4 +1,4 @@
 # MyFirstRepository
 This is my first repository
 <br>
-Author - me
+Author - me and me only
